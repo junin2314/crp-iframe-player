@@ -14,7 +14,7 @@
         ],
 	"content_scripts": [
     {
-        "matches": ["http://www.crunchyroll.com/*", "https://www.crunchyroll.com/*"],
+        "matches": ["https://beta.crunchyroll.com/*", "https://beta.crunchyroll.com/*"],
         "css": ["content.css"],
         "js": ["content.js"]
     }
